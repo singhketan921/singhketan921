@@ -35,7 +35,7 @@ I work as an AI trainer and evaluator, specializing in:
 - **Reasoning chain analysis** — identifying logical gaps and subtle errors in multi-step AI responses
 - **RLHF data generation** — writing high-quality prompt/response pairs for model fine-tuning
 
-**Domain expertise for annotation:** Technology · Gaming · Fitness & Health · Automotive · History · Design · Photography · ADHD & Neurodiversity
+**Domain expertise for annotation:** Technology · Gaming · Fitness & Health · Automotive · History · Design · Photography · ADHD & Neurodiversity · Sports
 
 ---
 
